@@ -3,7 +3,7 @@ backend:
   repo: jimpick/hyde-cms-theme # Path to your Github repository
   branch: master # Branch to update (master by default)
 
-publish_mode: editorial_workflow
+#publish_mode: editorial_workflow
 
 media_folder: "site/static/img/blog" # Folder where user uploaded files should go
 public_folder: "img/blog"
